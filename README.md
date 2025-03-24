@@ -17,3 +17,7 @@ Key Features:
 Deliverables:
 📄 Python script that performs the entire process
 📊 Sample PDF report showcasing the analysis and visualizations
+
+#OUTPUT# :
+![Image](https://github.com/user-attachments/assets/7e666ec8-dc6d-4e8c-8839-9d5161b720e4)
+![Image](https://github.com/user-attachments/assets/71ddcefb-a958-4c35-9122-d9db9585b060)
